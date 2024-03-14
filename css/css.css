@@ -1,0 +1,39 @@
+/* styles.css */
+
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+/* Estilos para los personajes */
+.character {
+    margin-bottom: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.character img {
+    max-width: 100%;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.character h2 {
+    font-size: 1.2rem;
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+
+.character p {
+    margin: 0;
+    font-size: 0.9rem;
+}
